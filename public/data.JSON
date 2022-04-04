@@ -1,0 +1,38 @@
+[
+    {
+        "month": "Jan",
+        "investment": 300500,
+        "sell": 354,
+        "revenue": 10401
+    },
+    {
+        "month": "Feb",
+        "investment": 200000,
+        "sell": 564,
+        "revenue": 24500
+    },
+    {
+        "month": "Mar",
+        "investment": 500000,
+        "sell": 622,
+        "revenue": 967010
+    },
+    {
+        "month": "Apr",
+        "investment": 200000,
+        "sell": 676,
+        "revenue": 770405
+    },
+    {
+        "month": "May",
+        "investment": 800000,
+        "sell": 222,
+        "revenue": 550900
+    },
+    {
+        "month": "Jun",
+        "investment": 180000,
+        "sell": 562,
+        "revenue": 771000
+    }
+]

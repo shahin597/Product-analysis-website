@@ -1,0 +1,10 @@
+.home{
+    background: #edeef3;
+    /* padding-top: 100px; */
+}
+.home img{
+    height: 400px;
+    width: auto;
+    border-radius: 40px 4px 40px 4px;
+    box-shadow: 0 30px 60px 0 rgb(1 11 60 / 14%);
+}
