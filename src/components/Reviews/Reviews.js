@@ -8,7 +8,7 @@ const Reviews = () => {
 
     return (
         <div className='my-5 container'>
-             <h3 className='my-4'> Our Recent All Customer Reviews</h3>
+             <h3 className='my-4'> Student Reviews</h3>
              <div className="row ">
                  <div className="col-md-12 col-sm-12">
                     <div className="row">  
