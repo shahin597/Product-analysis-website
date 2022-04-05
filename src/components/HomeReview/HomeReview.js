@@ -7,7 +7,7 @@ const HomeReview = () => {
     const [review] = useReview();
     return (
         <div className='my-5 container'>
-        <h3 className='my-4'>Customer Reviews ({review?.slice(0,3).length})</h3>
+        <h3 className='my-4'>Student Reviews ({review?.slice(0,3).length})</h3>
         <div className="row ">
             <div className="col-md-12 col-sm-12">
                <div className="row">
